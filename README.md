@@ -7,7 +7,7 @@ This project reviews United States Censes income data as it applies to relates c
 ## Snippet
 The below chart gives an example of the visualizations used to explore this data set.<br/>
 <br/>
-<img src="https://i.imgur.com/Qmts5rP.png" title="Income">
+<img src="https://i.imgur.com/Qmts5rP.png" width="620" height="350" title="Income">
 
 The repository contains the following materials:
 - Project overview
