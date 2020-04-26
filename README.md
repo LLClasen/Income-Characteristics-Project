@@ -9,7 +9,7 @@ The below chart gives an example of the visualizations used to explore this data
 <br/>
 <img src="https://i.imgur.com/Qmts5rP.png" width="620" height="350" title="Income">
 
-The repository contains the following materials:
+### The repository contains the following materials:
 - Project overview
 - Complete project code
 - Project presentation
